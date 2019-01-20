@@ -37,9 +37,6 @@
 *.db-wal
 *.suo
 *.ipch
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
 *.log
 *.lastbuildstate
 *.tlog
